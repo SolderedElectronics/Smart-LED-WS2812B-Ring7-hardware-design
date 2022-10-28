@@ -75,3 +75,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Stick10 to Smart-LED-WS2812B-Stick10-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Ring7/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main fbbf999] Updating open source files.
+ 1 file changed, 76 insertions(+)
+https://github.com/SolderedElectronics/Smart-LED-WS2812B-Ring7-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Stick10/OUTPUTS/V1.0.0: all files are present, commiting...
+Smart-LED-WS2812B-Stick10-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Stick10 to Smart-LED-WS2812B-Stick10-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Ring7/.git/
