@@ -1,0 +1,5 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"LED7,LED3,LED2,LED1,LED6,LED5,LED4";"WS2812B LED";7;"WS2812B";;;
+2;"C5,C6,C2,C4,C3,C7,C1";"0603C";7;"100n";;;
+3;"PAD4,PAD5,PAD2,PAD3,PAD1,PAD7,PAD8,PAD6";"PAD_2x1.5";8;"PAD_2x1.5";;;
+4;"R1";"0603R";1;"100";;;
